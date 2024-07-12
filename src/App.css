@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#btn {
+  background-color: #66d9ff;
+  border-radius: 8px;
+  height: 50px;
+  width: 70px;
+  margin: 20px;
+}
+
+table{
+  border: 3px solid black;
+  border-spacing: 0;
+}
+
+th{
+  border-bottom: 3px solid black;
+  border-right: 3px solid black;
+}
+
+td{
+  border-right: 3px solid black;
+}
